@@ -78,6 +78,7 @@
             },
             {
               "key": "hysteresis",
+              "short_name": "HYST",
               "label": "Hysteresis",
               "type": "float",
               "min": 0.0,
